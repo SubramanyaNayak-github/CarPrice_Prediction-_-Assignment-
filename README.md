@@ -44,5 +44,5 @@ We are required to model the price of cars with the available independent variab
 **horsepower** : Horsepower (Numeric)<br>
 **peakrpm** : car peak rpm (Numeric)<br>
 **citympg** : Mileage in city (Numeric)<br>
-**highwaympg** : Mileage on highway (Numeric)<br>
-**price(Dependent variable)** : Price of car (Numeric)<br>
+- **highwaympg** : Mileage on highway (Numeric)<br>
+- **price(Dependent variable)** : Price of car (Numeric)<br>
