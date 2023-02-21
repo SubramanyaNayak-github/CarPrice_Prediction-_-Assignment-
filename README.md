@@ -20,29 +20,29 @@ Based on various market surveys, the consulting firm has gathered a large data s
 We are required to model the price of cars with the available independent variables. It will be used by the management to understand how exactly the prices vary with the independent variables. They can accordingly manipulate the design of the cars, the business strategy etc. to meet certain price levels. Further, the model will be a good way for management to understand the pricing dynamics of a new market.
 
 <h3>The Columns:-</h3>
-**Car_ID** : Unique id of each observation (Interger)<br>
-**Symboling** : Its assigned insurance risk rating, A value of +3 - Indicates that the auto is risky, -3 that it is probably pretty safe.<br>
-**carCompany** : Name of car company (Categorical)<br>
-**fueltype** : Car fuel type i.e gas or diesel (Categorical)<br>
-**aspiration** : Aspiration used in a car (Categorical)<br>
-**doornumber** : Number of doors in a car (Categorical)<br>
-**carbody** : body of car (Categorical)<br>
-**drivewheel** : type of drive wheel (Categorical)<br>
-**enginelocation** : Location of car engine (Categorical)<br>
-**wheelbase**: Weelbase of car (Numeric)<br>
-**carlength** : Length of car (Numeric)<br>
-**carwidth** : Width of car (Numeric)<br>
-**carheight** : height of car (Numeric)<br>
-**curbweight** : The weight of a car without occupants or baggage. (Numeric)<br>
-**enginetype** : Type of engine. (Categorical)<br>
-**cylindernumber** : cylinder placed in the car (Categorical)<br>
-**enginesize** : Size of car (Numeric)<br>
-**fuelsystem** : Fuel system of car (Categorical)<br>
-**boreratio** : Boreratio of car (Numeric)<br>
-**stroke** : Stroke or volume inside the engine (Numeric)<br>
-**compressionratio** : compression ratio of car (Numeric)<br>
-**horsepower** : Horsepower (Numeric)<br>
-**peakrpm** : car peak rpm (Numeric)<br>
-**citympg** : Mileage in city (Numeric)<br>
-__highwaympg__ : Mileage on highway (Numeric)<br>
-__price(Dependent variable)__ : Price of car (Numeric)<br>
+Car_ID : Unique id of each observation (Interger)<br>
+Symboling : Its assigned insurance risk rating, A value of +3 - Indicates that the auto is risky, -3 that it is probably pretty safe.<br>
+carCompany : Name of car company (Categorical)<br>
+fueltype : Car fuel type i.e gas or diesel (Categorical)<br>
+aspiration : Aspiration used in a car (Categorical)<br>
+doornumber : Number of doors in a car (Categorical)<br>
+carbody : body of car (Categorical)<br>
+drivewheel : type of drive wheel (Categorical)<br>
+enginelocation : Location of car engine (Categorical)<br>
+wheelbase : Weelbase of car (Numeric)<br>
+carlength : Length of car (Numeric)<br>
+carwidth : Width of car (Numeric)<br>
+carheight : height of car (Numeric)<br>
+curbweight : The weight of a car without occupants or baggage. (Numeric)<br>
+enginetype : Type of engine. (Categorical)<br>
+cylindernumber : cylinder placed in the car (Categorical)<br>
+enginesize : Size of car (Numeric)<br>
+fuelsystem : Fuel system of car (Categorical)<br>
+boreratio : Boreratio of car (Numeric)<br>
+stroke : Stroke or volume inside the engine (Numeric)<br>
+compressionration : compression ratio of car (Numeric)<br>
+horsepower : Horsepower (Numeric)<br>
+peakrpm : car peak rpm (Numeric)<br>
+citympg : Mileage in city (Numeric)<br>
+highwaympg : Mileage on highway (Numeric)<br>
+price(Dependent variable) : Price of car (Numeric)<br>
