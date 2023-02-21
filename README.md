@@ -1,8 +1,6 @@
-<h1> CarPrice_Prediction-_-Assignment-</ h1>
-<h3 align="center">A passionate Data scientist from India</h3>
+<h1 align="center"> CarPrice_Prediction-_-Assignment-</ h1>
 
-
-Problem Statement:-
+<h3>Problem Statement:-</h3>
 
 A Chinese automobile company Geely Auto aspires to enter the US market by setting up their manufacturing unit there and producing cars locally to give competition to their US and European counterparts.
 
@@ -17,6 +15,6 @@ Based on various market surveys, the consulting firm has gathered a large data s
 
 
 
-Business Goal:-
+<h3>Business Goal:-</h3>
 
 We are required to model the price of cars with the available independent variables. It will be used by the management to understand how exactly the prices vary with the independent variables. They can accordingly manipulate the design of the cars, the business strategy etc. to meet certain price levels. Further, the model will be a good way for management to understand the pricing dynamics of a new market.
